@@ -10,14 +10,14 @@
       "localizedDescription": "날씨와 오늘의 책 문장, 손그림 다이어리를 결합한 앱입니다.",
       "iconURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/AppIcon.png",
       "tintColor": "F5C242",
-      "size": 32284715,
+      "size": 32293777,
       "versions": [
         {
-          "version": "0.1.0",
-          "date": "2026-07-21T00:00:00Z",
-          "localizedDescription": "AltStore를 통한 첫 배포",
+          "version": "0.1.1",
+          "date": "2026-07-21T15:00:00Z",
+          "localizedDescription": "위젯이 데이터를 읽지 못하던 문제(사이드로드 후 App Group 불일치)를 고치고, 자정마다 홈·잠금화면 위젯의 문장이 앱을 열지 않아도 자동으로 갱신되도록 개선했어요.",
           "downloadURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/Manana.ipa",
-          "size": 32284715,
+          "size": 32293777,
           "minOSVersion": "17.0"
         }
       ]
