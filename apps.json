@@ -1,0 +1,26 @@
+{
+  "name": "마냐나 (Mañana) Source",
+  "identifier": "co.artsrising.manana.source",
+  "apps": [
+    {
+      "name": "마냐나",
+      "bundleIdentifier": "com.wonji.manana",
+      "developerName": "wonji",
+      "subtitle": "날씨 · 문장 · 그림 다이어리",
+      "localizedDescription": "날씨와 오늘의 책 문장, 손그림 다이어리를 결합한 앱입니다.",
+      "iconURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/AppIcon.png",
+      "tintColor": "F5C242",
+      "size": 32284715,
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2026-07-21T00:00:00Z",
+          "localizedDescription": "AltStore를 통한 첫 배포",
+          "downloadURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/Manana.ipa",
+          "size": 32284715,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ]
+}
