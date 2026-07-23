@@ -10,8 +10,16 @@
       "localizedDescription": "날씨와 오늘의 책 문장, 손그림 다이어리를 결합한 앱입니다.",
       "iconURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/AppIcon.png",
       "tintColor": "F5C242",
-      "size": 32293777,
+      "size": 32294475,
       "versions": [
+        {
+          "version": "0.1.2",
+          "date": "2026-07-23T20:47:00Z",
+          "localizedDescription": "위젯 그림이 자정에도 어제 것으로 남아있던 문제와, 그림이 위젯에서 잘려 보이던 문제를 고쳤어요. '내일' 화면 문구도 다듬었어요.",
+          "downloadURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/Manana.ipa",
+          "size": 32294475,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.1.1",
           "date": "2026-07-21T15:00:00Z",
