@@ -10,8 +10,16 @@
       "localizedDescription": "날씨와 오늘의 책 문장, 손그림 다이어리를 결합한 앱입니다.",
       "iconURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/AppIcon.png",
       "tintColor": "F5C242",
-      "size": 32798322,
+      "size": 32798343,
       "versions": [
+        {
+          "version": "0.1.9",
+          "date": "2026-09-21T23:45:00Z",
+          "localizedDescription": "그림을 그리지 않은 날에는 큰 위젯에서 날씨와 문장이 왼쪽 여백 없이 화면을 꽉 채우도록 바꿨어요. 그림을 그리면 기존처럼 그림+문장 레이아웃으로 표시됩니다.",
+          "downloadURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/Manana.ipa",
+          "size": 32798343,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.1.8",
           "date": "2026-09-21T23:15:00Z",
