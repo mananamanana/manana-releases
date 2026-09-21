@@ -1,9 +1,9 @@
 {
-  "name": "마냐나 (Mañana) Source",
+  "name": "마나나 (Mañana) Source",
   "identifier": "co.artsrising.manana.source",
   "apps": [
     {
-      "name": "마냐나",
+      "name": "마나나",
       "bundleIdentifier": "com.wonji.manana",
       "developerName": "flowergarden",
       "subtitle": "날씨 · 문장 · 그림 다이어리",
@@ -23,7 +23,7 @@
         {
           "version": "0.1.7",
           "date": "2026-09-21T22:50:00Z",
-          "localizedDescription": "이제 아이패드에서도 마냐나를 사용할 수 있어요! 큰 화면에 맞춰 콘텐츠가 가운데로 정돈되도록 레이아웃을 다듬었어요.",
+          "localizedDescription": "이제 아이패드에서도 마나나를 사용할 수 있어요! 큰 화면에 맞춰 콘텐츠가 가운데로 정돈되도록 레이아웃을 다듬었어요.",
           "downloadURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/Manana.ipa",
           "size": 32752900,
           "minOSVersion": "17.0"
