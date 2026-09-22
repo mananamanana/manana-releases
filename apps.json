@@ -10,8 +10,16 @@
       "localizedDescription": "날씨와 오늘의 책 문장, 손그림 다이어리를 결합한 앱입니다.",
       "iconURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/AppIcon.png",
       "tintColor": "F5C242",
-      "size": 32836457,
+      "size": 32842301,
       "versions": [
+        {
+          "version": "0.1.22",
+          "date": "2026-09-22T05:20:00Z",
+          "localizedDescription": "아이패드에서 작은·중간 위젯이 빈칸으로 뜨던 문제를 고쳤어요 (위젯 배경 이미지가 너무 커서 렌더링이 실패하던 문제). 그리고 위젯 문장이 잘리지 않고 전체가 보이도록 했어요. 큰 위젯·초대형 위젯도 그대로 지원해요.",
+          "downloadURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/Manana.ipa",
+          "size": 32842301,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.1.21",
           "date": "2026-09-22T04:30:00Z",
