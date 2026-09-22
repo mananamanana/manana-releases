@@ -10,8 +10,16 @@
       "localizedDescription": "날씨와 오늘의 책 문장, 손그림 다이어리를 결합한 앱입니다.",
       "iconURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/AppIcon.png",
       "tintColor": "F5C242",
-      "size": 32822463,
+      "size": 32822568,
       "versions": [
+        {
+          "version": "0.1.18",
+          "date": "2026-09-22T03:00:00Z",
+          "localizedDescription": "그림을 그린 직후 다른 날짜로 넘기면 방금 그린 그림이 저장되지 않던 문제를 고쳤어요. 이제 날짜를 이동하거나 앱을 닫아도 그림이 안전하게 저장돼요.",
+          "downloadURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/Manana.ipa",
+          "size": 32822568,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.1.17",
           "date": "2026-09-22T02:35:00Z",
