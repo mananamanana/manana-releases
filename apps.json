@@ -10,8 +10,16 @@
       "localizedDescription": "날씨와 오늘의 책 문장, 손그림 다이어리를 결합한 앱입니다.",
       "iconURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/AppIcon.png",
       "tintColor": "F5C242",
-      "size": 32843783,
+      "size": 32846357,
       "versions": [
+        {
+          "version": "0.1.24",
+          "date": "2026-09-26T10:00:00Z",
+          "localizedDescription": "달력을 좌우로 스와이프해서 달을 넘길 수 있어요. 그리고 달력은 2026년 1월부터 시작해요 (그 이전으로는 넘어가지 않아요).",
+          "downloadURL": "https://raw.githubusercontent.com/mananamanana/manana-releases/main/Manana.ipa",
+          "size": 32846357,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.1.23",
           "date": "2026-09-26T09:00:00Z",
